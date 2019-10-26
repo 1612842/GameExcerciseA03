@@ -1,3 +1,3 @@
-﻿# Bài tập thực hành A02 - Điều khiển nhân vật nhảy 2 lần và camera follow
+﻿# Bài tập thực hành A03 - Thiết kế giao diện với Unity 2D
 
 -	Game scene Mario
